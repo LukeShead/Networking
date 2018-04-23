@@ -15,17 +15,8 @@ This type of server has a dependent relationship as stated earlier, this means t
 
 The server is very fast and responding to requests, so much in fact, that the average time it takes for people to wait for a website to load before either re-loading or quitting the page is no more than three seconds. This means that the servers need to be quick constantly in order to address the people that will lose interest after that short amount on time. As well having a good speed to run with, the client-server can also be very easily secured for all it's users, this is because the server can have many different types of encryptions and many different types of firewalls in order to keep information within the server that is needed within the server. Because of this, the information can be kept within the server and not be taken or provided unless it passes the protocols needed by the system, with security measures in place it means that the information is less likely to be stolen or comprimised.
 
-This is why client-servers can be very useful, however as well as having many benefits like speed and security to using a client-server, there is also some contraints that this type of networking can have. One of the biggest contraints that a client-server networking option can be is the bandwidth of the server. Bandwidth is very important when keeping a server quick and keep its function being completed successfully, this is because the bandwidth is what dictates how many packets can travel at a time, the packets that are being sent and recieved are sent along the 
+This is why client-servers can be very useful, however as well as having many benefits like speed and security to using a client-server, there is also some contraints that this type of networking can have. One of the biggest contraints that a client-server networking option can be is the bandwidth of the server. Bandwidth is very important when keeping a server quick and keep its function being completed successfully, this is because the bandwidth is what dictates how many packets can travel at a time, the packets that are being sent and recieved are sent along the 'Internet Highway' they can sometimes collide with other packets of information, this is called 'Packet Collision', in this event packets will be returned or discarded and the system will have to send another request, after two requests the system will display an error message and the system will time out. By having a small amount of bandwidth it means that certain packets could get lost or discarded, this can become more and more common the lower the bandwidth is, as of such it can cost a bit more to hold the bandwidth needed for larger websites.
 
-#### purpose
-
-#### benefits
-
-#### resource implications
-
-#### communications
-
-#### working practice
 
 #### commercial opportunity
 
