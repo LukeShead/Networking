@@ -11,7 +11,9 @@ A client-server is a type of network that is based on the client, which is the c
 
 Client-servers are usually used for websites and large web applications, this is because this type of networking can provide extremely powerful servers, this means that these servers are able to hold a large amount of people at one time, this is needed for larger websites or application as the amount of users that they might hold can be very large at certain points and they need the space in order to accomidate this, client-servers can do that. 
 
-As said before client-servers are extremely powerful and because of this can handle a lot more information and can process different times
+As said before client-servers are extremely powerful and because of this can handle a lot more information and can process different users at a much faster rate than other types of networking, other than this the client-server system is quite safe and a lot of security can be added to make sure that the servers don't have a breach that can affect the system in any sort of malicious way. 
+
+On top of this, the server is very fast and responding to requests, so much in fact, that the average time it takes for people to wait for a website to load before either re-loading or quitting the page is no more than three seconds. This means that the servers need to be quick constantly in order to address the people that will not 
 
 #### purpose
 
