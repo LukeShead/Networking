@@ -7,6 +7,8 @@ Netorking is the use of systems and servers in order to allow different networks
 
 ### Client-server
 
+A client-server is a type of network that is based on the client, which is the computer that sends the request and the server which manages and sorts the request to provide the information needed from the client. This type of networking is one-sided and has the client being completely reliant on the 
+
 #### purpose
 
 #### benefits
