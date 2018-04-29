@@ -30,7 +30,7 @@ This is why client-servers can be very useful, however as well as having many be
 
 Peer to peer operates by having two people use their own LAN, in order to connect with someone else's LAN, this allows them to be able to share resources with each other in order to be able to connect with each other and communicate throughout the session.
 
-Peer to Peer networking is usually done through small applications or gaming, it is used for having short interactions with other people, becuase of this, there is no need for a server to be used, since there is a direct connection between a short amount of systems, there is less information that is needed to be processed and retrieved. If there are two systems that connect, there is not server in between them directing the traffic or giving a stable place for packets to run though, this means that there are times in which there can be disconnections or restraints on the connection quality
+Peer to Peer networking is usually done through small applications or gaming, it is used for having short interactions with other people, becuase of this, there is no need for a server to be used, since there is a direct connection between a short amount of systems, there is less information that is needed to be processed and retrieved. If there are two systems that connect, there is not server in between them directing the traffic or giving a stable place for packets to run though, this means that there are times in which there can be disconnections or restraints on the connection quality, this means that it is not regarded as very popular when looking at 
 
 
 
