@@ -26,6 +26,12 @@ The server is very fast and responding to requests, so much in fact, that the av
 This is why client-servers can be very useful, however as well as having many benefits like speed and security to using a client-server, there is also some contraints that this type of networking can have. One of the biggest contraints that a client-server networking option can be is the bandwidth of the server. Bandwidth is very important when keeping a server quick and keep its function being completed successfully, this is because the bandwidth is what dictates how many packets can travel at a time, the packets that are being sent and recieved are sent along the 'Internet Highway' they can sometimes collide with other packets of information, this is called 'Packet Collision', in this event packets will be returned or discarded and the system will have to send another request, after two requests the system will display an error message and the system will time out. By having a small amount of bandwidth it means that certain packets could get lost or discarded, this can become more and more common the lower the bandwidth is, as of such it can cost a bit more to hold the bandwidth needed for larger websites.
 
 
+### Peer to Peer
+
+Peer to peer operates by having two people use their own LAN, in order to connect with someone else's LAN, this allows them to be able to share resources with each other in order to be able to connect with each other and communicate throughout the session 
+
+
+
 
 
 
