@@ -36,24 +36,20 @@ Peer to Peer networking is usually done through small applications or gaming, it
 
 
 ##### Use in a company
-Peer to Peer can be very useful when being used by a company, this is because there is no direct server that is needed to be used when both systems are connecting with each other. Becuase of this, many companies can save up a lot of money and don't need to have the unnecessary costs of maintaining servers and the running costs to keep them operational. 
-
-
-
-
-### Peer-based
+Peer to Peer can be very useful when being used by a company, this is because there is no direct server that is needed to be used when both systems are connecting with each other. Becuase of this, many companies can save up a lot of money and don't need to have the unnecessary costs of maintaining servers and the running costs to keep them operational. With this many companies that will be creating smaller projects that have a limited online transferring need will have a much more beneficial use of peer to peer.
 
 #### purpose
+The peer to peer network is created to be a connection between two or more systems who will communicate and share recources in order to connect with each other. This method does not use any form of server in order to connect, with the other user as the connection is completly handled by the two systems. Because of this it is best used for smaller sized connections, however for having a high amount of people at once this can be much worse as the connection relies on the two systems, if one fails then it can cause issues for the entire connection.
 
 #### benefits
-
-#### resource implications
+The biggest benefits for peer to peer is that it does not require any form of server or networking equipment, this means that the cost and time it takes to implement into a system is extremly lower than if it was ran through a client based server instead. As well as this having a host leave or fail does not mean the connection fails as it can select one of the other systems to be the host, this means it is safe as well as cheap to have in a small application.
 
 #### communications
+The systems in peer to peer netowrks are all connected through each others switch or hub as they connect with each other directly, the IP addresses are pinged by and connected by the others and does not go through any others to get there like a server. In order to ensure there is not much packet loss, it runs through a copper straight connection to that it is quick and safer for the packets.
+
 
 #### working practice
 
-#### commercial opportunity
 
 #### information sharing
 
