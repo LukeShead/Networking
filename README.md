@@ -108,29 +108,29 @@ You are required to design a local STAR network connected via a switch to 3 PCs,
 
 The PCs should use IPs:
 
-*192.168.1.100
-*192.168.1.101
-*192.168.1.102
+* 192.168.1.100
+* 192.168.1.101
+* 192.168.1.102
 The Server should use the IP:
 
-*192.168.1.10
+* 192.168.1.10
 The Router (aka Gateway) should use the IP:
 
-*192.168.1.1
+* 192.168.1.1
 Local Network 2
 You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
 
 The PCs should use IPs:
 
-*192.168.10.100
-*192.168.10.101
-*192.168.10.102
+* 192.168.10.100
+* 192.168.10.101
+* 192.168.10.102
 The Server should use the IP:
 
-192.168.10.10
+* 192.168.10.10
 The Router (or Gateway) should use the IP:
 
-192.168.10.1
+* 192.168.10.1
 
 
 
