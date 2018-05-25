@@ -94,3 +94,46 @@ Application: Similar to the osi model the application layer is responsible for p
 Transport: This layer is what controls the packets transportation from one system to another within the network, the journey of the packets are controlled and maintained within this layer. Like the osi model its uses TCP as a protocol. If this layer was to fail then packets could be lost or sent to different location than originally planned.
 
 Network Access: Where has the OSI's bottom model is a physical output, the lowest layer of TCP is more than that, this layer is what checks the packets as they are received whilst encoding and decoding data. This also provides a physical output to the user.
+
+
+## Creating my own networked system to meet a required specification
+
+### Specification
+
+The specification that was given was:
+
+Network Design Requirements
+Local Network 1
+You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
+
+The PCs should use IPs:
+
+*192.168.1.100
+*192.168.1.101
+*192.168.1.102
+The Server should use the IP:
+
+*192.168.1.10
+The Router (aka Gateway) should use the IP:
+
+*192.168.1.1
+Local Network 2
+You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
+
+The PCs should use IPs:
+
+*192.168.10.100
+*192.168.10.101
+*192.168.10.102
+The Server should use the IP:
+
+192.168.10.10
+The Router (or Gateway) should use the IP:
+
+192.168.10.1
+
+
+
+
+
+
