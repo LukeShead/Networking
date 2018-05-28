@@ -217,21 +217,21 @@ A virtualized server is a server that has been changed from a physical server in
 
 ## Workstation Hardware
 
-Networking Software
+##### Networking Software
+A networking software is needed when trying to create and maintain a network, it is used when modifying different types of network including LAN and WAN. There are many different types of networks.
 
-Client Software
+###### Client Software
+This is a software that requires input from the client in order to complete it's function, or it's function can be to offer the client the means to input certain information in order to get a specific output. An example of this is Microsoft Access.
 
-Server Software
+###### Server Software
+Server software is a software that is designed to help a server completes tasks, this can be for many different functions, for example if a server software allows the server to recieve and send emails, it means that the server can now act as an email hosting server as well as it's primary function.
 
+###### Client Operating System
+The client operating software usually has the function of allowing a system to have the ability to operate on it's own and complete it's own functions. This can improve productivity with the system and can allow the system complete more tasks, for example web browsing.
 
-Client Operating System
+###### Server Operating system
+This operating system is the same as a client operating system but with a server, this allows different types of functions to be implemented within the server that are different from it's primary function, this can help the server perform actions such as packet handling as well as usual functions. 
 
-
-Server Operating system
-
-Firewall
-
-Proxies
 
 
 
