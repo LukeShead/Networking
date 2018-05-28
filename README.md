@@ -270,17 +270,10 @@ The Router (or Gateway) should use the IP:
 * 192.168.10.1
 
 
-
-
 ### Designing the system
-
-
-
-
-
 
 
 ### How the design helped ne 
 
 
-
+### Testing the network with user feedback
