@@ -233,9 +233,6 @@ The client operating software usually has the function of allowing a system to h
 This operating system is the same as a client operating system but with a server, this allows different types of functions to be implemented within the server that are different from it's primary function, this can help the server perform actions such as packet handling as well as usual functions. 
 
 
-
-
-
 ## Creating my own networked system to meet a required specification
 
 ### Specification
@@ -274,6 +271,16 @@ The Router (or Gateway) should use the IP:
 
 
 
+
+### Designing the system
+
+
+
+
+
+
+
+### How the design helped ne 
 
 
 
