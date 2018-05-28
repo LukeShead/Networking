@@ -132,6 +132,92 @@ Similar to how SMTP works, POP3 is also known as post office protocol is a proto
 ### SSL
 This stands for secure sockets layer, it is the security technology standard that allows encrypted linking between web servers and browsers, it ensures that data that could be sensitive is sent securely to, this includes data such as addresses or debit card information.
 
+## The Impact of Networking Topology, Communication and Bandwidth
+
+
+### Topologies
+
+Networking topologies are the rules in which networks or made, apologies all have been designed for different purposes, because of this they all have their times in which they are the strongest and also the weakest choice. 
+
+* The first topology is the mesh topology, this is where multiple connections between multiple systems are connected on a network, this means that they all operate faster but also if one system fails so do the rest.
+
+* The second topology is the ring topology, this is simply where the network has been arranged in order to form a circular like network, what this means is that every device will be connected to two devices on either side of it. This can be very beneficial in terms of organisation however is not the most reliable choice.
+
+* The third topology is the bus topology, this is a very simple and Common apology where every single component within the network are all connected on a single line. This means that the cable length can be quite short however it can be difficult to figure out any issues with the network when it fails as everything fails at once.
+
+* The fourth topology is the star topology, this is where the machines are connected or to a single hub or sometimes a switch that is placed at the centre of the network. This is why it has the name star network, as the connections branch out to give the look of a star.
+
+### Communication
+Similar to how people communicate, communication on a network is where two systems will receive and send data or packets to each other over a network. When a user request data from a server, it has to communicate to make sure that user gets what they are looking for, so if the user wants a certain website, the server must provide that exact website. This is where many security risks are available to be exploited, this is because there are many different packets moving in and out being transferred by different systems, with this mini packets, there are many malicious hackers that will try to steal certain data. This is why systems like firewalls exist, having different forms of security measures can sometimes impact the speed of transfer between packets, if there are security checks within a router and server as well as firewalls to back it up then it can be much slower than if there were no security measures, of course this would be much more dangerous as there would be nothing stopping any form of malicious software or packets from stealing data. There are times in which servers will fail to communicate such as any other system, this is very rare how weather can happen, because of this the system is usually setup to send multiple packets with each request in case some are lost.
+
+### Operating Principles
+
+#### Networking devices
+
+##### Hubs
+Pubs serve as a primary connection point for many devices within a network. The Hub is made to connect all systems within a local network, it contains multiple ports so that it is able to connect with a variety of devices, as well as this it is usually centered in the middle of the network so that all devices can connect easily.
+
+##### Routers
+Routers are devices that have the purpose of connecting routers to other networks, by allowing a router to connect to another router on a separate network, the router can act as the gateway in order to route packets towards their desired destination allowing connections further out from LAN and into WAN.
+##### Switches
+Switches are devices that also connect different systems onto a network, what is different is that it uses a method called packet switching to process packets, information and data and then allow them to proceed.
+
+##### Multilayer Switch
+A multiplayer switch is similar to a normal switch how whether, this switch has the function of being able to perform the functions of a router as well, it is primarily stronger than the switch in terms of power and speed and is also considered faster than most routers.
+
+##### Firewall
+Firewalls have the functions of protecting different packets and also removing malicious packets from entering a system or client end device. It does this by having a set filter, and if these requirements are not met, then the firewall will block the packets that don't meet them.
+
+##### HIDS
+This is also known as host - based intrusion detection system, it specializes in monitoring internal components in a system. It will scan for any malicious packets when scanning the system, every packet is monitored and analysed and if it is malicious it is then reported.
+
+##### Repeaters
+Are used to repair signals that have been distorted, if a transmission system is having issues with loss of signal, then the Repeater will be able to fix the issue and also in the process, relay the messages back to the network if needed. It can also strengthen signals on networks, this allows for a greater size LAN.
+
+##### Bridges
+A bridge similar to the physical world, is used to connect different networks together, this can be very beneficial most of the time however the protocols on each Bridge must be the same. If they are not then access will be denied, this is because the internal database that the bridge uses has the power to determine what packets enter and leave the network, if they are not matching then they will not allow certain packets.
+
+##### Access Point
+Access points are usually found in most homes, their purpose is to provide a wireless connection to the network, they do not have to be physically connected to that network and can provide connection to the LAN for all systems with the means to connect to it.
+
+##### Content Filter
+A content filter, as the name suggests its purpose is to filter any content so that certain unwanted packets will be prevented from entering the network. It will determine a certain filter that is necessary for the network, if there are any packets that do not match with the filter, similar to a firewall they will not be allowed access.
+
+##### Load Balancer
+A load balancer is able to shorten the amount of time packets take to travel across the network by distributing traffic along different lanes that it creates. This can be very beneficial to networks that require a high-speed of service.
+
+##### Modem
+The modem functions by transmitting different data and packets across cable lines, this is also used when using a telephone connection and is what allows telephones and mobiles to connect.
+
+##### Packet Shaper
+The packet shaper is a program that allows more high priority packets to be prioritised higher than other traffic going in and out the network, this means that more important packets will have more security and faster speed of transfer.
+
+##### VPN Concentrator
+A VPN concentrator is a device that functions by providing a delivery service between VPN nodes, it will also provide a secure connection for the transfer between nodes. By doing this it means that there can be multiple systems accessing the VPN at the same time as they will be able to deal with the packets faster.
+
+#### Server types
+
+##### Web
+A web server is what allows users to see different types of content over the internet, this is done by having a request sent by the client to a web server, if the server can provide and it is not of any malicious or does not break the filtered requirements, then it will fetch the required page or website allowing it to be sent back to the client to give the user what they want.
+
+##### File
+A file server is a server that functions by storing and managing different types of files, these files are stored on the network so that any system that accesses that network can see the files. This means that users on the same network will be able to easily transfer files and share data without much delay.
+
+##### Database
+A database server can be physical or software based, it is used to provide storage for users information and data that can be used later on. There are two different types of database servers, one is called a back-end server, the other is a front-end server. The differences between our that the database can run on a user's system or have a system dedicated to a server. The information or data that is stored within a database can be referred back to and can also be seen by any user who accesses it.
+
+##### Combination
+A company server has the function to combine multiple functions of different servers above, it can allow web, file and database servers different functions two all enter one server that can provide the same service.
+
+##### Terminal Services
+A terminal server is a server that will provide different forms of terminals, the systems that can access the terminals are able to connect without needing a form of modem as long as another type of Port is used.
+
+##### Virtualisation
+A virtualized server is a server that has been changed from a physical server into a virtual server, this is done by having the physical server broken up into smaller servers that are also assisted by one or multiple software's. These servers can provide multiple services that other servers can provide such as web or database how weather, the benefit to virtualized servers is that it forms its own individual server there for needing less hardware to power physical.
+
+
+
+
 
 ## Creating my own networked system to meet a required specification
 
