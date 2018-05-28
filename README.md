@@ -215,6 +215,23 @@ A terminal server is a server that will provide different forms of terminals, th
 ##### Virtualisation
 A virtualized server is a server that has been changed from a physical server into a virtual server, this is done by having the physical server broken up into smaller servers that are also assisted by one or multiple software's. These servers can provide multiple services that other servers can provide such as web or database how weather, the benefit to virtualized servers is that it forms its own individual server there for needing less hardware to power physical.
 
+## Workstation Hardware
+
+Networking Software
+
+Client Software
+
+Server Software
+
+
+Client Operating System
+
+
+Server Operating system
+
+Firewall
+
+Proxies
 
 
 
