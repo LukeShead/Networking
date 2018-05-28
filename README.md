@@ -96,6 +96,43 @@ Transport: This layer is what controls the packets transportation from one syste
 Network Access: Where has the OSI's bottom model is a physical output, the lowest layer of TCP is more than that, this layer is what checks the packets as they are received whilst encoding and decoding data. This also provides a physical output to the user.
 
 
+## Standards and Protocols
+
+Physical Cabling and Data Transmission
+
+### IEEE 802.3
+This is the standard for its ethernet connections. The type of connection that is used for this is mostly physical there are some products that simulate ethernet however normal ethernet cables will be physical. With this standard there are many updates each one add new additional features and elements to it, one of the standards that must be met is that speeds must be of at least 1.25 MB/s. This standard is primarily used for LAN however can be used for WAN.
+
+### IEEE 802.7
+This is the typical recommended broadband LAN standard, the main thing that is specified when looking at the standard is the type of design testing and form of installation when using broadband cable Technologies.
+
+### IEEE 802.8
+This standard is very similar to the one above, however this is used for fibre optic within a LAN, the recommendations for testing and other forms of configuration are the same except it is a different connection type,
+
+### IEEE 802.11
+This refers to the standard of connecting through wireless devices, this includes the most popular form of connection, wi-Fi, the standard is about what forms of frequencies are being used when using access points and other network devices.
+
+### Routed Protocols
+Routed protocol is the term that is used when describing the process of using protocols to decide how data is transferred from one system to another, the only protocol that are left with in networking is IPv6 and it's earlier version ipv4. Many protocols that are followed with networking have a shorter lifespan than expected and as of such can lead to many protocols being abandoned. This is apparent when looking at ipv4 now instead of IPv6, ipv4 allowed multiple billion addresses that were able to be used when giving a system an IP address. However, at this point in time addresses are starting to run out in ipv4, to help solve this problem IPv6 has been invented and this allows a vastly bigger amount of addresses to be used.
+
+Services and network applications:
+
+### FTP
+As the name suggests, file transfer protocol is a protocol that Focuses on the transfer of files over two networks, this type of protocol requires a server and a client who is able to edit multiple files using FTP, in order to use FTP there must be some servers that can be logged into in order to gain access to the files transferred.
+
+### HTTP
+HTTP or hypertext transfer protocol is a protocol used by all of the internet, it is a protocol that governs the actions in which web servers or browsers need to take in order to respond to user commands. Http can be very helpful towards a user by offering help with the website such as display, this allows a much faster load time.
+
+### SMTP
+SMTP stands for simple mail transfer protocol and is the protocol used for emailing other networks between servers. The protocol is used to connect to servers that allow messages that a clients can receive from another client.
+
+### POP3
+Similar to how SMTP works, POP3 is also known as post office protocol is a protocol in which it's allowed clients to receive emails this type of protocol get updated a lot with each update it allows more features and easier use of receiving emails.
+
+### SSL
+This stands for secure sockets layer, it is the security technology standard that allows encrypted linking between web servers and browsers, it ensures that data that could be sensitive is sent securely to, this includes data such as addresses or debit card information.
+
+
 ## Creating my own networked system to meet a required specification
 
 ### Specification
