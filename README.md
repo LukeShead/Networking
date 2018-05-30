@@ -233,7 +233,52 @@ The client operating software usually has the function of allowing a system to h
 This operating system is the same as a client operating system but with a server, this allows different types of functions to be implemented within the server that are different from it's primary function, this can help the server perform actions such as packet handling as well as usual functions. 
 
 
+### Comparison of network and cabling
+
+
+#### Networking Comparison 
+A network card is a certain type of device that allows a computer system to connect with a wireless connection. The card is able to exchange data between a suitable protocol to achieve a stable connection at within the network. Many home PCs have network cards in order to connect to a private connection, this means the use of ethernet cables is not needed. It does this by identifying radio waves and other forms of wireless connections and can rely on them, this also means connections such as cellular.
+
+Network cards are very reliable, however they are not the only method of connection, as mentioned earlier the Ethernet port requires a wired connection between the network and the system. The ethernet connection usually has a higher rate of speed in the network, however in order to set up an ethernet connection, it can be much more of a nuisance as all ethernet connections are dealt with through physical cables.
+
+#### Cabling used
+Ethernet connections and other forms of wired connections require cabling to be used with its methods, these cables are usually copper or other forms of metal as it runs electrical signals across them in order to connect different systems together, the cables are able to transfer data between the two endpoints very easily, this means they are usually better than wireless in the terms of service. 
+
+Three main types of cables that are used within networking are:
+
+##### Patch Cables
+Patch cables are the most common form of cable is used when connecting devices together, the cable serve a better purpose when connecting devices such as a client end device, a switch or router, this is because they are primarily built for signal writing, this means that they are much better at transferring data between these two devices than other cables.
+
+##### Shielded Cables
+Similar to how the patch cables works, the shielded cables also transmits data, however it is not primarily built for signal router, this is because it is usually comprised of strands of copper, the reason they are called shielded cables is because they reduce electrical noise from affecting radio signals that are being transmitted across it. This is done by adding different layers of copper tape or a form of polymer, these allow the cable to reduce the noise created when transferring data.
+
+##### Twisted pair
+A twisted pair cable is a form of cable that does not use straight copper wires, instead it is called a twisted pair as the wires contain a twisted cable, the copper or other metallic elements of wire is twisted into a form of braided wire, allowing for less crosstalk or possibly any form of electromagnetic interference when transferring data, this can protect any packets that might be lost due to the interference.
+
+
+### Permissions
+Permissions are a security protocol that is used to help keep out unwanted packets or data, the idea is that different user's of end systems or networking devices will be able to set their own permissions and requirements for entry, the permissions can be set through admin privileges on these devices as it is the primary security protocol that allows unwanted data to be transferred, there are different forms of permissions that can be installed within a device or network, here are two of them.
+
+#### NTFS
+NTFS is a form of permissions that are primarily set for shared folders, the type of permissions allow the people that are able to access them full control over the files accessed, this means that they are able to delete or edit files as well as just review their contents. NTFS is a very flexible option as it gives the user's the right to edit all forms of files within a network, this can mean that all forms of needs can be sated from using this.
+
+#### Shared Permissions
+Share permissions are very similar to NTFS however what they do not have in common are that the procedures are only set for files shared within a network, the permissions can be different levels of security and access which allows only the right people to view higher priority folders depending on what level their access is.
+
+### Local workstation Architecture
+Other than just normal home pCs, there are another form of computers that are more specialised towards completing a set task or tasks, these are called workstation computers and are made to be able to complete different tasks at a much faster rate than a personal computer could. It is very similar to a private home computer however this type of computer is always connected onto the LA that it is under, this allows it to share its resources and also process resources with the LAN network. Specialised computer usually will have a much better processor than a private computer, this is because it will need to run more tasks and also may require the extra memory and clock speed to help keep up with all the data being transferred. There are many different uses of workstation computers how whether they can be quite costly in order to obtain.
+
+#### System Bus
+A system bus is a form of connection that can carry data between the microprocessor of the computer and the main memory of the computer, by allowing this form of connection, it is able to provide a straight communication pathway in order to transfer data back and forth. The data is usually carried within the motherboard however can also be carried between the CPU and possibly other components. The address of the bus is where the data will be sent and will determine the route for the data when sent, the control of the system bus is used to identify the type of operation the data requires when it arrives at its destination.
+
+
 ## Creating my own networked system to meet a required specification
+
+The type of network that I used to meet this specification was a star based network, all devices within this network were all connected to the main switch at the centre of the network, by having two different lands it meant that two star networks were created in order to use a router to connect both.
+
+
+
+
 
 ### Specification
 
@@ -271,12 +316,22 @@ The Router (or Gateway) should use the IP:
 
 
 ### Designing the system
+When designing the network, each system was taken and put into a position that could be used in order to meet the given specification, With the 8 different systems, 6 being computers and the other 2 being servers, they all required to have a unique IP address in order to allow the others to connect with it. As well as this they all required to be able to run through a switch and router to connect two different LAN’s. 
+
 
 
 ### How the design helped ne 
+I planned and designed the network on draw.io; this is because there are many different tools that can be used in order to successfully re-create the look for what the network will look like. Using this design helped me create a working network as I was able to plan how the connections would work from the start of the development, it also meant that I could use it as a reference if I needed to be reminded of what the network was meant to look like and was able to work off it because of that.
 
+After creating the design, I was able to look at each network component and decide how to utilise them in order to make the network successful, the design was a lot more simple and did not go in depth into what was the purpose of each of the systems were. However instead of using the design for this I was able to use it to use it in order to make sure that I had a strong base to build the network, the design is what dictated how the network would be structured and was where I could plan it all without needing to invest as much time as I would if I tested as I built the network.
 
 ### Testing the network with user feedback
-
+When testing my network, I used simple tests with the purpose of making sure that the network was able to connect to the other systems, for example the computers being able to use the router in order to connect with another LAN in order to ping computers within it. In order to make sure that I tested all of the possible areas to prove that the cluster 	network was fully functional, I used a test plan that was able to look at all different aspects of the network, this includes being able to ping the different systems within the network and allowing them to access the other LAN.
 
 ### Evaluation
+
+
+
+
+
+
