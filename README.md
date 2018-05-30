@@ -286,7 +286,8 @@ The type of network that I used to meet this specification was a star based netw
 The specification that was given was:
 
 Network Design Requirements
-Local Network 1
+
+#### Local Network 1 AKA: Springfield
 You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
 
 The PCs should use IPs:
@@ -300,7 +301,8 @@ The Server should use the IP:
 The Router (aka Gateway) should use the IP:
 
 * 192.168.1.1
-Local Network 2
+
+#### Local Network 2 AKA: QUAHOG
 You are required to design a local STAR network connected via a switch to 3 PCs, 1 Server and 1 router
 
 The PCs should use IPs:
