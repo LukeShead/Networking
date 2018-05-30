@@ -7,7 +7,6 @@ Netorking is the use of systems and servers in order to allow different networks
 
 ### 1.1 Client-server
 
-
 A client-server is a type of network that is based on the client, which is the computer that sends the request and the server which manages and sorts the request to provide the information needed from the client. This type of networking is one-sided and has the client being completely reliant on the server to gather the information needed, any form of request can be sent to a server however servers filter through requests in order to make sure that only the requests that are allowed to be sent out are sent. 
 
 Client-servers are usually used for websites and large web applications, this is because this type of networking can provide extremely powerful servers, this means that these servers are able to hold a large amount of people at one time, this is needed for larger websites or application as the amount of users that they might hold can be very large at certain points and they need the space in order to accomidate this, client-servers can do that. client-servers are extremely powerful and because of this can handle a lot more information and can process different users at a much faster rate than other types of networking, other than this the client-server system is quite safe and a lot of security can be added to make sure that the servers don't have a breach that can affect the system in any sort of malicious way. 
@@ -27,7 +26,6 @@ Peer to peer operates by having two people use their own LAN, in order to connec
 
 
 Peer to Peer networking is usually done through small applications or gaming, it is used for having short interactions with other people, becuase of this, there is no need for a server to be used, since there is a direct connection between a short amount of systems, there is less information that is needed to be processed and retrieved. If there are two systems that connect, there is not server in between them directing the traffic or giving a stable place for packets to run though, this means that there are times in which there can be disconnections or restraints on the connection quality, this means that it is not regarded as very popular when used on much larger systems.
-
 
 Peer to Peer can be very useful when being used by a company, this is because there is no direct server that is needed to be used when both systems are connecting with each other. Becuase of this, many companies can save up a lot of money and don't need to have the unnecessary costs of maintaining servers and the running costs to keep them operational. With this many companies that will be creating smaller projects that have a limited online transferring need will have a much more beneficial use of peer to peer.
 
@@ -280,7 +278,7 @@ A system bus is a form of connection that can carry data between the microproces
 The type of network that I used to meet this specification was a star based network, all devices within this network were all connected to the main switch at the centre of the network, by having two different lands it meant that two star networks were created in order to use a router to connect both.
 
 
-
+![Design of network](https://github.com/LukeShead/Networking/blob/master/Network%20design.JPG)
 
 
 ### Specification
@@ -328,8 +326,12 @@ I planned and designed the network on draw.io; this is because there are many di
 
 After creating the design, I was able to look at each network component and decide how to utilise them in order to make the network successful, the design was a lot more simple and did not go in depth into what was the purpose of each of the systems were. However instead of using the design for this I was able to use it to use it in order to make sure that I had a strong base to build the network, the design is what dictated how the network would be structured and was where I could plan it all without needing to invest as much time as I would if I tested as I built the network.
 
+![Network](https://github.com/LukeShead/Networking/blob/master/Network%20model%20full.JPG)
+
 ### Testing the network with user feedback
 When testing my network, I used simple tests with the purpose of making sure that the network was able to connect to the other systems, for example the computers being able to use the router in order to connect with another LAN in order to ping computers within it. In order to make sure that I tested all of the possible areas to prove that the cluster 	network was fully functional, I used a test plan that was able to look at all different aspects of the network, this includes being able to ping the different systems within the network and allowing them to access the other LAN.
+
+
 
 ### Evaluation
 
