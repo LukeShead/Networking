@@ -321,7 +321,7 @@ The Router (or Gateway) should use the IP:
 ### Designing the system
 When designing the network, each system was taken and put into a position that could be used in order to meet the given specification, With the 8 different systems, 6 being computers and the other 2 being servers, they all required to have a unique IP address in order to allow the others to connect with it. As well as this they all required to be able to run through a switch and router to connect two different LAN’s. 
 
-
+When looking at the specification of the network, I decided to use a star type network as it was the most commonly used network type of this kind of task, by having a star network it is able to keep a strong connection to the switch, as well as this it is able to look neat and organised if anything is to be done.
 
 ### How the design helped ne 
 I planned and designed the network on draw.io; this is because there are many different tools that can be used in order to successfully re-create the look for what the network will look like. Using this design helped me create a working network as I was able to plan how the connections would work from the start of the development, it also meant that I could use it as a reference if I needed to be reminded of what the network was meant to look like and was able to work off it because of that.
