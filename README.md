@@ -321,7 +321,7 @@ The Router (or Gateway) should use the IP:
 ### Designing the system
 When designing the network, each system was taken and put into a position that could be used in order to meet the given specification, With the 8 different systems, 6 being computers and the other 2 being servers, they all required to have a unique IP address in order to allow the others to connect with it. As well as this they all required to be able to run through a switch and router to connect two different LAN’s. 
 
-When looking at the specification of the network, I decided to use a star type network as it was the most commonly used network type of this kind of task, by having a star network it is able to keep a strong connection to the switch, as well as this it is able to look neat and organised if anything is to be done.
+When looking at the specification of the network, I decided to use a star type network as it was the most commonly used network type of this kind of task, by having a star network it is able to keep a strong connection to the switch, as well as this it is able to look neat and organised if anything is to be done. When using it cabling, I decided to use copper straight through, this was to make sure that it was the easiest and simplest to understand and identify where connections were made, however do routers have to be connected by a serial DTE, this was because it is a long range connection of two LAN's.
 
 ### How the design helped ne 
 I planned and designed the network on draw.io; this is because there are many different tools that can be used in order to successfully re-create the look for what the network will look like. Using this design helped me create a working network as I was able to plan how the connections would work from the start of the development, it also meant that I could use it as a reference if I needed to be reminded of what the network was meant to look like and was able to work off it because of that.
@@ -334,6 +334,14 @@ After creating the design, I was able to look at each network component and deci
 When testing my network, I used simple tests with the purpose of making sure that the network was able to connect to the other systems, for example the computers being able to use the router in order to connect with another LAN in order to ping computers within it. In order to make sure that I tested all of the possible areas to prove that the cluster 	network was fully functional, I used a test plan that was able to look at all different aspects of the network, this includes being able to ping the different systems within the network and allowing them to access the other LAN.
 
 ![Test plan](https://github.com/LukeShead/Networking/blob/master/Test%20plan.JPG)
+
+After testing the network myself, I wanted user feedback from real life individuals to see what they thought about the network,
+
+##### Joe:
+Joe stated that the network was easy to understand since the star network easy to identify, when testing this with Joe, there were no issues when pinging a different systems, overall good feedback.
+
+##### Mark:
+Mark's comment on the system at work very similar to Joe's however, mark stated that the labeling was a little bit messy and would do good for a clean up, when testing this network there were no issues that occurred.
 
 ### Evaluation
 
