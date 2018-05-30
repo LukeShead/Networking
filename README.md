@@ -68,6 +68,9 @@ A virtualized network works by combining network resources and splitting up band
 ## 2.0 Conceptual models:
 In order to make sure that devices are connected properly two models are used, the first model is the transmission control protocol/ internet protocol model. This model is much shorter than the other model which is the osi model, this network model is used to have communication protocols that allow network devices to connect through the internet to a private network. TCP / IP models use client based servers as this is used for a client to ping iP addresses in order to connect. The model has four different layers that is used to check whether it will connect.
 
+!(TCP/OSI)[https://github.com/LukeShead/Networking/blob/master/TCP%20and%20OSI%20model.jpg]
+
+
 ### OSI Model
 The OSI model has many more layers than the TCP model, similar to the TCP model, each model will handle a different process.
 The OSI model consists of these different layers: 
