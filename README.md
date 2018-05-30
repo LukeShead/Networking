@@ -333,7 +333,7 @@ After creating the design, I was able to look at each network component and deci
 ### Testing the network with user feedback
 When testing my network, I used simple tests with the purpose of making sure that the network was able to connect to the other systems, for example the computers being able to use the router in order to connect with another LAN in order to ping computers within it. In order to make sure that I tested all of the possible areas to prove that the cluster 	network was fully functional, I used a test plan that was able to look at all different aspects of the network, this includes being able to ping the different systems within the network and allowing them to access the other LAN.
 
-
+![Test plan](https://github.com/LukeShead/Networking/blob/master/Test%20plan.JPG)
 
 ### Evaluation
 
