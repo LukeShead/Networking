@@ -156,7 +156,7 @@ Similar to how people communicate, communication on a network is where two syste
 #### Networking devices
 
 ##### Hubs
-Pubs serve as a primary connection point for many devices within a network. The Hub is made to connect all systems within a local network, it contains multiple ports so that it is able to connect with a variety of devices, as well as this it is usually centered in the middle of the network so that all devices can connect easily.
+Hubs serve as a primary connection point for many devices within a network. The Hub is made to connect all systems within a local network, it contains multiple ports so that it is able to connect with a variety of devices, as well as this it is usually centered in the middle of the network so that all devices can connect easily.
 
 ##### Routers
 Routers are devices that have the purpose of connecting routers to other networks, by allowing a router to connect to another router on a separate network, the router can act as the gateway in order to route packets towards their desired destination allowing connections further out from LAN and into WAN.
