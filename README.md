@@ -345,7 +345,13 @@ Mark's comment on the system at work very similar to Joe's however, mark stated 
 
 ### Evaluation
 
+The network that I had designed had been made to keep in mind all the requirements that were needed, all of the requirements were met with this network and when tested, the network worked as planned. The choice to use a star topology in order for the switch to transfer data back and forth easily, paid off heavily, this was because the pings were able to go through the network quickly and with no interference from any devices. The connections were copper straight through and I believe this was a good decision since the size of the network did not require much cabling to be used, because of this the copper straight through was the impressed and also cheapest type of connection to get, it also allowed to clear View of what devices were connected with each other. 
 
+The only issues I found with the network were to do with the star topology, this was the fact that if one device was to shut down such as the switch or router, then no packets would be able to be received from the other systems, this is because this which is the primary device within the star topology. By having the switch as the primary device centered in the network, it means that all devices must go through it in order to pick, this means that the switch needs to be working and completing its function successfully in order for things to be successful. 
+
+This is where I could have possibly used another form of topology, doing this may of helped some of the issues that I encountered during the creation of this network, for example when connecting all of the systems, any issues with the switch had to be dealt with first before any of them could pick up to each other despite configuring them all successfully. Using the feedback that I got from the testing, I was able to look at my network and see the strengths and some of the flaws when viewing it, the cabling was easy to understand how whether the labeling was messy due to the star topology having all the systems close together. Another aspect I could have added onto the network is some security measures, there were very few security measures implemented such as a firewall was missing, adding this could have helped the network look more stable rather than being vulnerable to attacks. 
+
+In conclusion, the network met all requirements needed and the function for its use can be very beneficial for a small private network, in future I will be able to use this network to look at the weaknesses and strengths of certain topologies and be able to work upon that in order to design better networks in the future.
 
 
 
